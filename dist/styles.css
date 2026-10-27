@@ -61,3 +61,4 @@ nav{gap:25px;overflow-x:auto}nav button{flex-shrink:0}.finance-heading{display:f
 }
 footer{display:none}
 .expense-table>.panel-heading{display:none}
+#page-description:empty,.receipt-scope{display:none}
