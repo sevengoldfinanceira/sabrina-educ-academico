@@ -59,3 +59,4 @@ nav{gap:25px;overflow-x:auto}nav button{flex-shrink:0}.finance-heading{display:f
  .account{position:static;width:auto;min-height:0;padding:0;border:0;background:transparent;box-shadow:none}
  main{padding:24px 18px 0}
 }
+footer{display:none}
